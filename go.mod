@@ -1,8 +1,6 @@
 module gocover-cobertura
 
-go 1.22.0
-
-toolchain go1.23.3
+go 1.23.3
 
 require (
 	github.com/stretchr/testify v1.10.0
