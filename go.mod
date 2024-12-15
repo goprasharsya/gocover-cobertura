@@ -1,4 +1,4 @@
-module github.com/goprasharsya/gocover-cobertura
+module gocover-cobertura
 
 go 1.22.0
 
